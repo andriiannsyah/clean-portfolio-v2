@@ -26,7 +26,7 @@ function Data() {
         </svg>
       </h3>
       <h1 className="home__subtitle">Frontend Web Developer</h1>
-      <p className="home__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, laboriosam?</p>
+      <p className="home__description">Seorang Frontend Web yang bersemangat dan berdedikasi, dalam pengembangan aplikasi web menggunakan teknologi-teknologi modern seperti React JS.</p>
       <a href="#contact" className="button btton--flex">
         Say Hello
         <svg className="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">

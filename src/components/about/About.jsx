@@ -1,6 +1,6 @@
 import "./about.css";
 import AboutImg from "../../assets/adr-black-white2.jpg";
-import CV from "../../assets/CV-Andriansyah.pdf";
+import CV from "../../assets/CV-Andriansyah-Final.pdf";
 import Info from "./Info";
 
 function About() {
@@ -13,7 +13,10 @@ function About() {
         <img src={AboutImg} alt="" className="about__img" />
         <div className="about__data">
           <Info />
-          <p className="about__description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit vitae illum voluptatibus odio necessitatibus, magnam provident dolorum nemo ratione dolorem officiis quis.</p>
+          <p className="about__description">
+            Seorang Frontend Web dengan pengalaman dalam membangun antarmuka pengguna yang responsif dan menarik. Mahir dalam HTML, CSS, dan JavaScript, saya memiliki kemampuan untuk merancang dan mengimplementasikan desain yang memikat
+            serta fokus pada pengalaman pengguna yang baik.
+          </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
             <svg className="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
